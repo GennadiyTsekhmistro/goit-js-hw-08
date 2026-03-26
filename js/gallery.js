@@ -36,30 +36,30 @@ const images = [
   },
   {
     preview:
-      'https://cdn.pixabay.com/photo/2019/05/16/23/04/landscape-4208571__340.jpg',
+      'https://i.ibb.co/hRcJbX0Y/office-small.jpg',
     original:
-      'https://cdn.pixabay.com/photo/2019/05/16/23/04/landscape-4208571_1280.jpg',
-    description: 'Mountain Lake Sailing',
+      'https://i.ibb.co/jZbbPYy1/office-large.jpg',
+    description: 'Office',
   },
   {
     preview:
-      'https://cdn.pixabay.com/photo/2019/05/17/09/27/the-alps-4209272__340.jpg',
+      'https://i.ibb.co/n8ffT8sB/desk-small.jpg',
     original:
-      'https://cdn.pixabay.com/photo/2019/05/17/09/27/the-alps-4209272_1280.jpg',
+      'https://i.ibb.co/20fw36XR/desk-large.jpg',
     description: 'Alpine Spring Meadows',
   },
   {
     preview:
-      'https://cdn.pixabay.com/photo/2019/05/16/21/10/landscape-4208255__340.jpg',
+      'https://i.ibb.co/FqdQqT8x/work-small.jpg',
     original:
-      'https://cdn.pixabay.com/photo/2019/05/16/21/10/landscape-4208255_1280.jpg',
-    description: 'Nature Landscape',
+      'https://i.ibb.co/Kxfr8vMM/work-large.jpg',
+    description: 'Work',
   },
   {
     preview:
-      'https://cdn.pixabay.com/photo/2019/05/17/04/35/lighthouse-4208843__340.jpg',
+      'https://i.ibb.co/93ckkgHT/presentation-small.jpg',
     original:
-      'https://cdn.pixabay.com/photo/2019/05/17/04/35/lighthouse-4208843_1280.jpg',
+      'https://i.ibb.co/xSxMzscd/presentation-large.jpg',
     description: 'Lighthouse Coast Sea',
   },
 ];
