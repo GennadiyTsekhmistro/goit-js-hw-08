@@ -1,38 +1,38 @@
 const images = [
   {
     preview:
-      'https://cdn.pixabay.com/photo/2019/05/14/16/43/rchids-4202820__480.jpg',
+      'https://i.ibb.co/twgWX58g/meeting-small.jpg',
     original:
-      'https://cdn.pixabay.com/photo/2019/05/14/16/43/rchids-4202820_1280.jpg',
-    description: 'Hokkaido Flower',
+      'https://i.ibb.co/LDQFmhT9/meeting-large.jpg',
+    description: 'Meeting',
   },
   {
     preview:
-      'https://cdn.pixabay.com/photo/2019/05/14/22/05/container-4203677__340.jpg',
+      'https://i.ibb.co/CsP3TyG4/hand-with-light-bulb-small.jpg',
     original:
-      'https://cdn.pixabay.com/photo/2019/05/14/22/05/container-4203677_1280.jpg',
-    description: 'Container Haulage Freight',
+      'https://i.ibb.co/Q7qQZbTP/hand-with-light-bulb-large.jpg',
+    description: 'Hand With Light Bulb',
   },
   {
     preview:
-      'https://cdn.pixabay.com/photo/2019/05/16/09/47/beach-4206785__340.jpg',
+      'https://i.ibb.co/0y8B4G5c/design-and-develop-small.jpg',
     original:
-      'https://cdn.pixabay.com/photo/2019/05/16/09/47/beach-4206785_1280.jpg',
-    description: 'Aerial Beach View',
+      'https://i.ibb.co/3mJxskcV/design-and-develop-large.jpg',
+    description: 'Design and Develop',
   },
   {
     preview:
-      'https://cdn.pixabay.com/photo/2016/11/18/16/19/flowers-1835619__340.jpg',
+      'https://i.ibb.co/kgWWR0KR/veranda-small.jpg',
     original:
-      'https://cdn.pixabay.com/photo/2016/11/18/16/19/flowers-1835619_1280.jpg',
-    description: 'Flower Blooms',
+      'https://i.ibb.co/PvxvVSBL/veranda-large.jpg',
+    description: 'Veranda',
   },
   {
     preview:
-      'https://cdn.pixabay.com/photo/2018/09/13/10/36/mountains-3674334__340.jpg',
+      'https://i.ibb.co/m5fJ09Qr/lounge-small.jpg',
     original:
-      'https://cdn.pixabay.com/photo/2018/09/13/10/36/mountains-3674334_1280.jpg',
-    description: 'Alpine Mountains',
+      'https://i.ibb.co/cSZCS38h/lounge-large.jpg',
+    description: 'Lounge',
   },
   {
     preview:
