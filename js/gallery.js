@@ -46,7 +46,7 @@ const images = [
       'https://i.ibb.co/n8ffT8sB/desk-small.jpg',
     original:
       'https://i.ibb.co/20fw36XR/desk-large.jpg',
-    description: 'Alpine Spring Meadows',
+    description: 'Desk',
   },
   {
     preview:
@@ -60,7 +60,7 @@ const images = [
       'https://i.ibb.co/93ckkgHT/presentation-small.jpg',
     original:
       'https://i.ibb.co/xSxMzscd/presentation-large.jpg',
-    description: 'Lighthouse Coast Sea',
+    description: 'Presentation',
   },
 ];
 
@@ -72,7 +72,7 @@ const markup = images
   <li class="gallery-item">
     <a class="gallery-link" href="${original}">
       <img
-        class="gallery-image"
+        class="gallery__image"
         src="${preview}"
         data-source="${original}"
         alt="${description}"
@@ -84,6 +84,8 @@ const markup = images
 
 gallery.innerHTML = markup;
 
+
+
 gallery.addEventListener('click', event => {
   event.preventDefault();
 
@@ -94,6 +96,10 @@ gallery.addEventListener('click', event => {
 
   const largeImageURL = target.dataset.source;
 
-  console.log(`Відкрити велике зображення: ${largeImageURL}`);
+  const instance = basicLightbox.create(`
+    <img src="${largeImageURL}" alt="${target.alt}">
+  `);
+
+  instance.show();
   });
   
